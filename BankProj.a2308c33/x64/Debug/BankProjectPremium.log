@@ -1,0 +1,29 @@
+﻿  BankProjectPremium.cpp
+C:\Users\moham\Source\Repos\Bank-System\clsUtility.h(32,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'BankProjectPremium.cpp')
+  
+C:\Users\moham\Source\Repos\Bank-System\clsBankClient.h(287,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectPremium.cpp')
+  
+C:\Users\moham\Source\Repos\Bank-System\clsBankClient.h(293,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectPremium.cpp')
+  
+C:\Users\moham\Source\Repos\Bank-System\clsAddNewClientScreen.h(16,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectPremium.cpp')
+  
+C:\Users\moham\Source\Repos\Bank-System\clsUpdateClientScreen.h(16,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectPremium.cpp')
+  
+C:\Users\moham\Source\Repos\Bank-System\clsDepositScreen.h(16,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectPremium.cpp')
+  
+C:\Users\moham\Source\Repos\Bank-System\clsWithdrawScreen.h(19,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectPremium.cpp')
+  
+C:\Users\moham\Source\Repos\Bank-System\clsUpdateCurrencyRateScreen.h(14,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectPremium.cpp')
+  
+C:\Users\moham\Source\Repos\Bank-System\clsCurrencyCalculatorScreen.h(10,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankProjectPremium.cpp')
+  
+  BankProjectPremium.vcxproj -> C:\Users\moham\Source\Repos\Bank-System\x64\Debug\BankProjectPremium.exe
